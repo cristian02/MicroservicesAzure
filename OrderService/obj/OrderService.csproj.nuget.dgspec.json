@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microservices\\OrderService\\OrderService.csproj": {}
+    "D:\\MicroservicesAzure\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "D:\\Microservices\\OrderService\\OrderService.csproj": {
+    "D:\\MicroservicesAzure\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microservices\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "D:\\MicroservicesAzure\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "D:\\Microservices\\OrderService\\OrderService.csproj",
-        "packagesPath": "C:\\Users\\crism\\.nuget\\packages\\",
-        "outputPath": "D:\\Microservices\\OrderService\\obj\\",
+        "projectPath": "D:\\MicroservicesAzure\\OrderService\\OrderService.csproj",
+        "packagesPath": "C:\\Users\\304530347\\.nuget\\packages\\",
+        "outputPath": "D:\\MicroservicesAzure\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\crism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\304530347\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -46,23 +46,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
